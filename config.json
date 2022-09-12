@@ -1,0 +1,23 @@
+{
+ "bot": {
+        "prefix": "+",
+        "id": "1006694641128710154",
+        "secret": "FhCAuS719pMCOwV9az8cmGtZquvfce_Q",
+        "token": ""
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://evolationuptime.ml/",
+        "callback": "https://evolationuptime.ml/callback",
+        "discord_server_ID": "999751204710125568",
+        "owners": [
+            "993126923884580894"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongoURL": "mongodb+srv://AstraUptime:napim_11@cluster0.rs3b6.mongodb.net/?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/g6TRrqKznf"
+}
